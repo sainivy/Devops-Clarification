@@ -9,3 +9,8 @@ git merge
 git fetch
 git rebase
 git revert
+git stash
+git diff
+git delete
+
+git commands completed
