@@ -34,7 +34,7 @@ user group to assign permissions:-
 	it can often be more convenient and efficient to setup groups and assign permissions to the group rather than manage each user individually.
 
 apply an IAM password policy:-
-	A password policy dictates the format and expiration rules that must be followed when a user creates or modifies their password.
+	A password policy dictates the format and expiration rules that must be followed when a user creates or modifies our password.
 	These rules include :- 
 		Length
 		case requirements
